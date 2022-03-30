@@ -530,8 +530,8 @@ img {
           &_value {
             height: 30px;
             position: absolute;
-            top: 0;
             left: 0;
+            bottom: 30px;
             transform: translateX(-50%);
             border-radius: 4px;
             display: flex;
