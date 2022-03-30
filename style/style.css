@@ -439,7 +439,7 @@ img {
 .main_calculator_bg_calculation .calculation_input_value {
   height: 30px;
   position: absolute;
-  top: 0;
+  bottom: 30px;
   left: 0;
   transform: translateX(-50%);
   border-radius: 4px;
